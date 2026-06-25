@@ -40,5 +40,6 @@ streamlit run app.py
 ## Author
 
 Arpita Mahajan
-M.Tech Research Scholar
-MANIT Bhopal
+M.Tech (JRF)
+Research Scholar
+
